@@ -46,6 +46,7 @@ module.exports = {
            
         ],
         // sidebar: 'auto',
+        sidebarDepth: 2,
         search: true,
         searchMaxSuggestions: 10,
         lastUpdated: 'Last Updated'
