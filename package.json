@@ -1,0 +1,20 @@
+{
+  "name": "daniel_blog",
+  "version": "1.0.0",
+  "description": "This is a blog!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs-dev": "vuepress dev docs",
+    "docs-build": "vuepress build docs"
+  },
+  "keywords": [
+    "vuepress",
+    "githubpage"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
